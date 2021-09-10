@@ -1,1 +1,3 @@
-# My practicals of software engineering lab
+# software engineering lab
+
+Practicals performed in software engineering lab
